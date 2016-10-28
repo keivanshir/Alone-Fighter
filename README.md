@@ -8,10 +8,10 @@ There are many similar games like [Nullapointershooter](https://github.com/strat
 Gamers
 
 ##Common Features
-*Killing Enemies
-*Funny images
-*Cool Graphics
+1.Killing Enemies
+2.Funny images
+3.Cool Graphics
 
 ##Special Features
-*Choosing Weapons
-*Choosing Planes
+1.Choosing Weapons
+2.Choosing Planes
